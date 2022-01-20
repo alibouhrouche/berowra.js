@@ -1,0 +1,46 @@
+[
+    {
+        "key": "testcoll",
+        "lastUpdated": "2021-12-30 12:25:52.501703+00:00",
+        "templateItems": [
+            {
+                "id": 6881642076773,
+                "title": "string",
+                "type": "String"
+            },
+            {
+                "id": 7377043458582,
+                "title": "date",
+                "type": "Date"
+            },
+            {
+                "id": 4465018618901,
+                "title": "markdown",
+                "type": "Markdown"
+            },
+            {
+                "id": 2287570115778,
+                "title": "number",
+                "type": "Number"
+            },
+            {
+                "id": 5941553441329,
+                "title": "colour",
+                "type": "Colour"
+            },
+            {
+                "id": 8617780377464,
+                "title": "files",
+                "type": "Files"
+            },
+            {
+                "id": 4147718720142,
+                "title": "str array",
+                "type": "String Array"
+            },{
+                "id": 0
+            }
+        ],
+        "title": "Test"
+    }
+]

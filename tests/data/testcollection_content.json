@@ -1,0 +1,49 @@
+{
+    "items": [
+        {
+            "content": {
+                "5941553441329": {
+                    "title": "colour",
+                    "type": "Colour",
+                    "value": "#000000"
+                },
+                "4465018618901": {
+                    "title": "markdown",
+                    "type": "Markdown",
+                    "value": "# Test"
+                },
+                "8617780377464": {
+                    "title": "files",
+                    "type": "Files"
+                },
+                "6881642076773": {
+                    "title": "string",
+                    "type": "String",
+                    "value": "String Value"
+                },
+                "4147718720142": {
+                    "title": "str array",
+                    "type": "String Array",
+                    "value": [
+                        "str1",
+                        "str2"
+                    ]
+                },
+                "2287570115778": {
+                    "title": "number",
+                    "type": "Number",
+                    "value": "2022"
+                },
+                "7377043458582": {
+                    "title": "date",
+                    "type": "Date",
+                    "value": "2022-01-01"
+                }
+            },
+            "key": "testcontent",
+            "lastUpdated": "2021-12-30 12:28:01.392270+00:00",
+            "title": "Test Content"
+        }
+    ],
+    "title": "Test"
+}

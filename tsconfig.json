@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "module": "ESNext",
+        "lib": ["ES6","DOM"],
+        "resolveJsonModule": true,
+        "esModuleInterop": true,
+        "target": "es2020",
+        "jsx": "preserve",
+        "strictFunctionTypes": true,
+        "declaration": true,
+        "emitDeclarationOnly": true,
+        "declarationDir": "types",
+        "moduleResolution": "Node"
+    },
+    "include": [
+        "src/**/*"
+    ],
+    "exclude": [
+        "node_modules",
+        "**/node_modules/*"
+    ]
+}
