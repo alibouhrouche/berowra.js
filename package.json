@@ -3,13 +3,13 @@
   "version": "0.0.1",
   "description": "A berowra cms client for javascript.",
   "main": "dist/cjs/index.js",
-  "module": "dist/mjs/index.js",
+  "module": "dist/esm/index.js",
   "repository": "https://github.com/alibouhrouche/berowra.js.git",
   "author": "Ali Bouhrouche <alijsorg@gmail.com>",
   "license": "MIT",
   "exports": {
     ".": {
-      "import": "./dist/mjs/index.js",
+      "import": "./dist/esm/index.js",
       "require": "./dist/cjs/index.js"
     }
   },
